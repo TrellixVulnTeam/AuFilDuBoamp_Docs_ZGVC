@@ -15,6 +15,9 @@ Essai
    :maxdepth: 2
    :caption: Contents:
 
+   page01.rst
+   essai.md
+
 
 
 Indices and tables

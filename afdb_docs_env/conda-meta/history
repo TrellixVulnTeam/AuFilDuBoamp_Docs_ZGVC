@@ -56,3 +56,16 @@
 # conda version: 4.10.1
 +anaconda/noarch::sphinx_rtd_theme-0.4.3-py_0
 # update specs: ['sphinx_rtd_theme']
+==> 2021-05-10 15:18:36 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -c conda-forge myst-parser
+# conda version: 4.10.1
+-anaconda/win-64::ca-certificates-2020.10.14-0
++conda-forge/noarch::attrs-20.3.0-pyhd3deb0d_0
++conda-forge/noarch::markdown-it-py-1.0.0-pyhd8ed1ab_0
++conda-forge/noarch::mdit-py-plugins-0.2.8-pyhd8ed1ab_0
++conda-forge/noarch::myst-parser-0.14.0-pyhd8ed1ab_0
++conda-forge/noarch::typing_extensions-3.7.4.3-py_0
++conda-forge/win-64::ca-certificates-2020.12.5-h5b45459_0
++conda-forge/win-64::pyyaml-5.4.1-py39hb82d6ee_0
++conda-forge/win-64::yaml-0.2.5-he774522_0
+# update specs: ['myst-parser']
