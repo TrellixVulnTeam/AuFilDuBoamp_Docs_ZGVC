@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AuFilDuBoamp_Docs_R&D's documentation!
+Bienvenue (index.rst) AuFilDuBoamp Docs
 =================================================
 
 Essai
