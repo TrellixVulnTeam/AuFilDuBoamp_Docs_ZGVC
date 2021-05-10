@@ -1,0 +1,42 @@
+{
+  "build": "h8ffe710_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda3\\pkgs\\pandoc-2.13-h8ffe710_0",
+  "features": "",
+  "files": [
+    "Library/bin/pandoc.exe"
+  ],
+  "fn": "pandoc-2.13-h8ffe710_0.tar.bz2",
+  "license": "GPL-2.0",
+  "license_family": "GPL",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda3\\pkgs\\pandoc-2.13-h8ffe710_0",
+    "type": 1
+  },
+  "md5": "61005d2dab3dc58a1c99e997a16896bf",
+  "name": "pandoc",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda3\\pkgs\\pandoc-2.13-h8ffe710_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/pandoc.exe",
+        "path_type": "hardlink",
+        "sha256": "a07c1533854de291e32b8dd1b79434229eef97722e1ac4d261bf3b0efd071fdd",
+        "sha256_in_prefix": "a07c1533854de291e32b8dd1b79434229eef97722e1ac4d261bf3b0efd071fdd",
+        "size_in_bytes": 100922880
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8730aca7ebc059f759ec431f752c742965c400c9777362bf4b7fc66602eac793",
+  "size": 17060199,
+  "subdir": "win-64",
+  "timestamp": 1616443973941,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pandoc-2.13-h8ffe710_0.tar.bz2",
+  "version": "2.13"
+}

@@ -1,0 +1,129 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "docutils",
+    "jinja2",
+    "nbconvert",
+    "nbformat",
+    "python >=3.6",
+    "sphinx",
+    "traitlets"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda3\\pkgs\\nbsphinx-0.8.4-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/INSTALLER",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/LICENSE",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/METADATA",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/RECORD",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/REQUESTED",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/WHEEL",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/direct_url.json",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/top_level.txt",
+    "Lib/site-packages/nbsphinx-0.8.4.dist-info/zip-safe",
+    "Lib/site-packages/nbsphinx.py",
+    "Lib/site-packages/__pycache__/nbsphinx.cpython-39.pyc"
+  ],
+  "fn": "nbsphinx-0.8.4-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda3\\pkgs\\nbsphinx-0.8.4-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "6fa1cfe85ca529aa6d478787cff6ecd1",
+  "name": "nbsphinx",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda3\\pkgs\\nbsphinx-0.8.4-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a12f7b9c52538ff89430ebe0d295c28307d00ce929fec1d3b3144e4abe867b95",
+        "sha256_in_prefix": "a12f7b9c52538ff89430ebe0d295c28307d00ce929fec1d3b3144e4abe867b95",
+        "size_in_bytes": 1063
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "05546ee23dd5cebd75ffecf389c990e1097254d7ef65ffb8191e59f78b983566",
+        "sha256_in_prefix": "05546ee23dd5cebd75ffecf389c990e1097254d7ef65ffb8191e59f78b983566",
+        "size_in_bytes": 2066
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "eb7994d743f27640a6f5f1ce186e5c3de0e4e039a8658613c7e670220e3ba39c",
+        "sha256_in_prefix": "eb7994d743f27640a6f5f1ce186e5c3de0e4e039a8658613c7e670220e3ba39c",
+        "size_in_bytes": 867
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "461a554d079026d9334750b390d2b2e9b01aab83bbc7d94904ec55b43885cee5",
+        "sha256_in_prefix": "461a554d079026d9334750b390d2b2e9b01aab83bbc7d94904ec55b43885cee5",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f2923954659df1b26a2d82d3f41e4903069a01e5982847b26be896fa6c3c882e",
+        "sha256_in_prefix": "f2923954659df1b26a2d82d3f41e4903069a01e5982847b26be896fa6c3c882e",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/nbsphinx-0.8.4.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/nbsphinx.py",
+        "path_type": "hardlink",
+        "sha256": "07948f98cd70f03bba254e380d4d917ae52619fdfa61579d67174ec77ca0f35b",
+        "sha256_in_prefix": "07948f98cd70f03bba254e380d4d917ae52619fdfa61579d67174ec77ca0f35b",
+        "size_in_bytes": 81231
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/nbsphinx.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "nbsphinx",
+  "sha256": "0263d4dceaa16ef4564eea3458ca7307f1996fab42903b11053bc7debd5216c7",
+  "size": 26410,
+  "subdir": "noarch",
+  "timestamp": 1619722941788,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/nbsphinx-0.8.4-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.8.4"
+}
