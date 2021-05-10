@@ -69,3 +69,10 @@
 +conda-forge/win-64::pyyaml-5.4.1-py39hb82d6ee_0
 +conda-forge/win-64::yaml-0.2.5-he774522_0
 # update specs: ['myst-parser']
+==> 2021-05-10 15:33:18 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -c conda-forge recommonmark
+# conda version: 4.10.1
++conda-forge/noarch::commonmark-0.9.1-py_0
++conda-forge/noarch::recommonmark-0.7.1-pyhd8ed1ab_0
++conda-forge/win-64::future-0.18.2-py39hcbf5309_3
+# update specs: ['recommonmark']
